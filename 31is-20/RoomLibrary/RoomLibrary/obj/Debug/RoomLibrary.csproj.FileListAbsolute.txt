@@ -1,0 +1,5 @@
+D:\31is-20\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+D:\31is-20\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+D:\31is-20\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csprojAssemblyReference.cache
+D:\31is-20\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+D:\31is-20\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
